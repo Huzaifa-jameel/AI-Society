@@ -1,0 +1,3 @@
+{
+    "python.analysis.extraPaths": ["./Virtual1/Lib/site-packages"]
+}
